@@ -56,8 +56,8 @@ credit-card-fraud-detection/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
+   git clone https://github.com/ozanguneyli/Credit-Card-Fraud-Detection.git
+   cd Credit-Card-Fraud-Detection
    ```
 
 2. Create a virtual environment and activate it:
